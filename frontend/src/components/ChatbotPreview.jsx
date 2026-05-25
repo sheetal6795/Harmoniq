@@ -3,30 +3,30 @@ function ChatbotPreview() {
     <section className="chatbot-section">
 
       <div className="chat-left">
-        <h2>24/7 AI Mental Health Support</h2>
+        <h2>24/7 AI Music Co-Pilot 🎧</h2>
 
         <p>
-          Talk with our AI wellness assistant anytime you feel stressed,
-          anxious, or emotionally overwhelmed.
+          Describe your music idea in plain language and let AI generate
+          melodies, chord progressions, lyrics, and editable drafts instantly.
         </p>
 
         <button className="primary-btn">
-          Start Chatting
+          Start Creating
         </button>
       </div>
 
       <div className="chat-right">
 
         <div className="chat-box ai">
-          Hey 👋 How are you feeling today?
+          Hey 👋 What kind of music do you want to create today?
         </div>
 
         <div className="chat-box user">
-          I'm feeling a little stressed lately.
+          I want a calm lo-fi melody with emotional lyrics.
         </div>
 
         <div className="chat-box ai">
-          I'm here for you 💙 Want to try a breathing exercise?
+          Got it 🎶 Generating chord progressions, melody ideas, and lyrics...
         </div>
 
       </div>

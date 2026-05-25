@@ -1,23 +1,20 @@
 function Hero() {
   return (
     <section className="hero">
-
       <div className="hero-content">
         <h1>
-          Your AI-Powered <span>Mental Wellness</span> Companion
+          Your AI-Powered <span>Music Drafting Assistant 🎶</span>
         </h1>
 
         <p>
-          Track moods, journal your emotions, chat with AI support,
-          and improve your mental well-being daily.
+          Generate melodies, chord progressions, lyrics, and editable music drafts instantly using AI.
         </p>
 
         <div className="hero-buttons">
-          <button className="primary-btn">Get Started</button>
-          <button className="secondary-btn">Learn More</button>
+          <button className="primary-btn">Start Creating</button>
+          <button className="secondary-btn">Explore Features</button>
         </div>
       </div>
-
     </section>
   );
 }

@@ -2,18 +2,23 @@ function Features() {
   return (
     <section className="features">
       <div className="card">
-        <h3>Mood Tracking</h3>
-        <p>Track your daily emotions easily.</p>
+        <h3>🎼 Chord Progression Generation</h3>
+        <p>Create smart chord progressions based on mood and style.</p>
       </div>
 
       <div className="card">
-        <h3>AI Chatbot</h3>
-        <p>Talk with supportive AI assistance.</p>
+        <h3>🎵 Symbolic Melody Generation</h3>
+        <p>Generate editable melodies instead of locked audio outputs.</p>
       </div>
 
       <div className="card">
-        <h3>Journaling</h3>
-        <p>Write your thoughts privately.</p>
+        <h3>🎤 Lyrics Assistance</h3>
+        <p>Get AI-generated lyrics, hooks, and songwriting ideas instantly.</p>
+      </div>
+
+      <div className="card">
+        <h3>🎹 MIDI Export</h3>
+        <p>Export your music drafts as editable MIDI files.</p>
       </div>
     </section>
   );

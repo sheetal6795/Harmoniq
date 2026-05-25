@@ -2,27 +2,27 @@ function MoodTracker() {
   return (
     <section className="mood-section">
 
-      <h2>Your Mood Journey 📊</h2>
+      <h2>Your Music Creation Journey 🎼</h2>
 
       <p className="mood-text">
-        Track your emotional well-being and understand your daily patterns.
+        Track your music drafts, generated ideas, and creative progress.
       </p>
 
       <div className="mood-cards">
 
         <div className="mood-card">
-          <h3>😊 Happy</h3>
-          <p>12 Days</p>
+          <h3>🎵 Drafts Created</h3>
+          <p>12 Projects</p>
         </div>
 
         <div className="mood-card">
-          <h3>😌 Calm</h3>
-          <p>8 Days</p>
+          <h3>🎤 Lyrics Generated</h3>
+          <p>28 Ideas</p>
         </div>
 
         <div className="mood-card">
-          <h3>😔 Stressed</h3>
-          <p>3 Days</p>
+          <h3>🎹 MIDI Exports</h3>
+          <p>9 Files</p>
         </div>
 
       </div>
